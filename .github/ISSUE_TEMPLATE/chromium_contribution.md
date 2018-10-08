@@ -22,7 +22,7 @@ about: Create a issue about chromium contribution
 ## Work
 
 **Patch**
-https://crrev/c/
+https://crrev.com/c/
 
 **Reviewers**
 - .
