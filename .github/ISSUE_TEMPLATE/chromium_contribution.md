@@ -12,10 +12,10 @@ about: Create a issue about chromium contribution
 **Documents**
 - 없음
 
-**내용**
+**Description**
 - .
 
-**관련 링크**
+**References**
 - .
 
 
@@ -35,6 +35,10 @@ https://crrev.com/c/
 
 **Solution**
 - .
+
+**Date of final update**
+2018-00-00
+
 
 ## Description
 
