@@ -30,6 +30,7 @@ It's managed by github issues and projects.
 
 
 **Blink Rename Changes**
+- [#57](https://github.com/amoseui/contributions/issues/57) [Fix old links in css property template](https://crrev.com/c/1333095)
 - [#46](https://github.com/amoseui/contributions/issues/46) [Let generated xpath_grammar header follow chromium style on header guards](https://crrev.com/c/1293059)
 - [#45](https://github.com/amoseui/contributions/issues/45) [Let generated header files follow chromium style on header guards](https://crrev.com/c/1292652)
 - [#44](https://github.com/amoseui/contributions/issues/44) [probe: Let generated header files follow chromium style on header guards](https://crrev.com/c/1291192)
