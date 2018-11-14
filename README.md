@@ -6,6 +6,7 @@ It's managed by github issues and projects.
 ## [Chromium](https://github.com/amoseui/contributions/projects/2)
 
 **Blink Web Standards**
+- [#56](https://github.com/amoseui/contributions/issues/56) [Add a UseCounter for default in custom-ident](https://crrev.com/c/1325599)
 - [#47](https://github.com/amoseui/contributions/issues/47) [Forms: Remove delegation of focus on legend](https://crrev.com/c/1304180)
 - [#43](https://github.com/amoseui/contributions/issues/43) [Ignore 'usemap' attribute if it contains no #](https://crrev.com/c/1291190)
 - [#30](https://github.com/amoseui/contributions/issues/30) [Remove [TreatNullAs=NullString] from CanvasFillStrokeStyles](https://crrev.com/c/1255083)
