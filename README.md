@@ -6,6 +6,9 @@ It's managed by github issues and projects.
 ## [Chromium](https://github.com/amoseui/contributions/projects/2)
 
 **Blink Web Standards**
+- [#60](https://github.com/amoseui/contributions/issues/60) [Remove URLUtilsReadOnly IDL by flattening it into WorkerLocation](https://crrev.com/c/1339680)
+- [#59](https://github.com/amoseui/contributions/issues/59) [css: Drop zero value for y of serialization of 2d translate](https://crrev.com/c/1337670)
+- [#58](https://github.com/amoseui/contributions/issues/58) [service worker: Let register('data://blah') throw a TypeError](https://crrev.com/c/1189688)
 - [#56](https://github.com/amoseui/contributions/issues/56) [Add a UseCounter for default in custom-ident](https://crrev.com/c/1325599)
 - [#47](https://github.com/amoseui/contributions/issues/47) [Forms: Remove delegation of focus on legend](https://crrev.com/c/1304180)
 - [#43](https://github.com/amoseui/contributions/issues/43) [Ignore 'usemap' attribute if it contains no #](https://crrev.com/c/1291190)
