@@ -24,7 +24,6 @@ It's managed by github issues and projects.
 - [#16](https://github.com/amoseui/contributions/issues/16) [Set "application/octet-stream" content type for empty <input type=file>](https://crrev.com/c/1140236)
 
 **Blink Cleanup**
-- [#61](https://github.com/amoseui/contributions/issues/61) [Fix presubmit error on third_party/WebKit/LayoutTests/OWNERS](https://crrev.com/c/1341440)
 - [#48](https://github.com/amoseui/contributions/issues/48) [Move build/scripts/{ => core/css}/make_css_primitive_value_unit_trie.py](https://crrev.com/c/1309377)
 - [#21](https://github.com/amoseui/contributions/issues/21) [Replace WTF_MAKE_NONCOPYABLE with DISALLOW_COPY_AND_ASSIGN in renderer/modules/service_worker/*](https://crrev.com/c/1221011)
 - [#14](https://github.com/amoseui/contributions/issues/14) [Replace WTF_MAKE_NONCOPYABLE with DISALLOW_COPY_AND_ASSIGN in renderer/modules/credentialmanager/*](https://crrev.com/c/1138035)
@@ -35,8 +34,8 @@ It's managed by github issues and projects.
 - [#17](https://github.com/amoseui/contributions/issues/17) [Move Authenticator interface into blink.mojom namespace](https://crrev.com/c/1136341)
 - [#13](https://github.com/amoseui/contributions/issues/13) [Move CredentialManager interface into blink.mojom namespace](https://crrev.com/c/1139454)
 
-
 **Blink Rename Changes**
+- [#61](https://github.com/amoseui/contributions/issues/61) [Fix presubmit error on third_party/WebKit/LayoutTests/OWNERS](https://crrev.com/c/1341440)
 - [#57](https://github.com/amoseui/contributions/issues/57) [Fix old links in css property template](https://crrev.com/c/1333095)
 - [#46](https://github.com/amoseui/contributions/issues/46) [Let generated xpath_grammar header follow chromium style on header guards](https://crrev.com/c/1293059)
 - [#45](https://github.com/amoseui/contributions/issues/45) [Let generated header files follow chromium style on header guards](https://crrev.com/c/1292652)
