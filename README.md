@@ -3,9 +3,11 @@
 History of open source contribution.
 It's managed by github issues and projects.
 
-## [Chromium](https://github.com/amoseui/contributions/projects/2)
+## [Chromium](https://github.com/amoseui/contributions/projects/2) 
+47 patches
 
 **Blink Web Standards**
+- [#62](https://github.com/amoseui/contributions/issues/62) [Merge ImageBitmapFactories into WindowOrWorkerGlobalScope mix-in](https://crrev.com/c/1349160)
 - [#60](https://github.com/amoseui/contributions/issues/60) [Remove URLUtilsReadOnly IDL by flattening it into WorkerLocation](https://crrev.com/c/1339680)
 - [#59](https://github.com/amoseui/contributions/issues/59) [css: Drop zero value for y of serialization of 2d translate](https://crrev.com/c/1337670)
 - [#58](https://github.com/amoseui/contributions/issues/58) [service worker: Let register('data://blah') throw a TypeError](https://crrev.com/c/1189688)
