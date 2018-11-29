@@ -33,7 +33,7 @@ It's managed by github issues and projects.
 **Blink Mojo Changes**
 - [#23](https://github.com/amoseui/contributions/issues/23) [Rename components/web_cache/public/interfaces to mojom](https://crrev.com/c/1229726)
 - [#17](https://github.com/amoseui/contributions/issues/17) [Move Authenticator interface into blink.mojom namespace](https://crrev.com/c/1136341)
-- [#13](https://github.com/amoseui/contributions/issues/13) [Move CredentialManager interface into blink.mojom namespace](https://crrev.com/c/1136341)
+- [#13](https://github.com/amoseui/contributions/issues/13) [Move CredentialManager interface into blink.mojom namespace](https://crrev.com/c/1139454)
 
 
 **Blink Rename Changes**
