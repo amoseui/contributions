@@ -4,9 +4,10 @@ History of open source contribution.
 It's managed by github issues and projects.
 
 ## [Chromium](https://github.com/amoseui/contributions/projects/2) 
-48 patches
+49 patches
 
 **Blink Web Standards**
+- [#65](https://github.com/amoseui/contributions/issues/65) [Expose the External interface](https://crrev.com/c/1416794)
 - [#64](https://github.com/amoseui/contributions/issues/64) [Standardize initStorageEvent in StorageEvent](https://crrev.com/c/1411752)
 - [#62](https://github.com/amoseui/contributions/issues/62) [Merge ImageBitmapFactories into WindowOrWorkerGlobalScope mix-in](https://crrev.com/c/1349160)
 - [#60](https://github.com/amoseui/contributions/issues/60) [Remove URLUtilsReadOnly IDL by flattening it into WorkerLocation](https://crrev.com/c/1339680)
