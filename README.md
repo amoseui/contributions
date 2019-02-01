@@ -4,9 +4,10 @@ History of open source contribution.
 It's managed by github issues and projects.
 
 ## [Chromium](https://github.com/amoseui/contributions/projects/2) 
-49 patches
+50 patches
 
 **Blink Web Standards**
+- [#63](https://github.com/amoseui/contributions/issues/63) [cache storage: Introduce MultiCacheQueryOptions as per spec](https://crrev.com/c/1395998)
 - [#65](https://github.com/amoseui/contributions/issues/65) [Expose the External interface](https://crrev.com/c/1416794)
 - [#64](https://github.com/amoseui/contributions/issues/64) [Standardize initStorageEvent in StorageEvent](https://crrev.com/c/1411752)
 - [#62](https://github.com/amoseui/contributions/issues/62) [Merge ImageBitmapFactories into WindowOrWorkerGlobalScope mix-in](https://crrev.com/c/1349160)
