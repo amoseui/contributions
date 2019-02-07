@@ -3,8 +3,8 @@
 History of open source contribution.
 It's managed by github issues and projects.
 
-## [Chromium](https://github.com/amoseui/contributions/projects/2) 
-51 patches
+## [Chromium](https://github.com/amoseui/contributions/projects/2)
+52 patches
 
 **Blink Web Standards**
 - [#63](https://github.com/amoseui/contributions/issues/63) [cache storage: Introduce MultiCacheQueryOptions as per spec](https://crrev.com/c/1395998)
@@ -27,6 +27,7 @@ It's managed by github issues and projects.
 - [#16](https://github.com/amoseui/contributions/issues/16) [Set "application/octet-stream" content type for empty <input type=file>](https://crrev.com/c/1140236)
 
 **Blink Cleanup**
+- [#68](https://github.com/amoseui/contributions/issues/68) [cache storage: Rename QueryParams to CacheQueryOptions](https://crrev.com/c/1449444)
 - [#67](https://github.com/amoseui/contributions/issues/67) [[OnionSoup] Move notification_data_conversions to blink](https://crrev.com/c/1447398)
 - [#48](https://github.com/amoseui/contributions/issues/48) [Move build/scripts/{ => core/css}/make_css_primitive_value_unit_trie.py](https://crrev.com/c/1309377)
 - [#21](https://github.com/amoseui/contributions/issues/21) [Replace WTF_MAKE_NONCOPYABLE with DISALLOW_COPY_AND_ASSIGN in renderer/modules/service_worker/*](https://crrev.com/c/1221011)
@@ -83,4 +84,4 @@ It's managed by github issues and projects.
 ## [Android Open Source Project HTMLViewer](https://github.com/amoseui/contributions/projects/1)
 - [#53](https://github.com/amoseui/contributions/issues/53) Disable Android Beam
 - [#52](https://github.com/amoseui/contributions/issues/52) Reload data after the permission is granted
-- [#51](https://github.com/amoseui/contributions/issues/51) Implement shouldOverrideUrlLoading to open hyperlink on HTMLViewer. 
+- [#51](https://github.com/amoseui/contributions/issues/51) Implement shouldOverrideUrlLoading to open hyperlink on HTMLViewer.
