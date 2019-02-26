@@ -4,7 +4,7 @@ History of open source contribution.
 It's managed by github issues and projects.
 
 ## [Chromium](https://github.com/amoseui/contributions/projects/2)
-53 patches
+54 patches
 
 **Blink Web Standards**
 - [#63](https://github.com/amoseui/contributions/issues/63) [cache storage: Introduce MultiCacheQueryOptions as per spec](https://crrev.com/c/1395998)
@@ -55,6 +55,9 @@ It's managed by github issues and projects.
 **WPT Cleanup**
 - [#34](https://github.com/amoseui/contributions/issues/34) [Remove redundant result files in wpt/html/editing/focus](https://crrev.com/c/1286027)
 - [#31](https://github.com/amoseui/contributions/issues/31) [Remove external/wpt/svg/interfaces-expected.txt](https://crrev.com/c/1263637)
+
+**Service Workers**
+- [#70](https://github.com/amoseui/contributions/issues/70) [service worker: Remove Cookie handling from the test helper](https://crrev.com/c/1484966)
 
 **Chromium Refactoring**
 - [#10](https://github.com/amoseui/contributions/issues/10) [Cleanup ChromeSSLHostStateDelegate](https://crrev.com/c/1065955)
