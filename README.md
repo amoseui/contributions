@@ -57,6 +57,7 @@ It's managed by github issues and projects.
 - [#31](https://github.com/amoseui/contributions/issues/31) [Remove external/wpt/svg/interfaces-expected.txt](https://crrev.com/c/1263637)
 
 **Service Workers**
+- [#71](https://github.com/amoseui/contributions/issues/71) [service worker: Remove notification handling from the test helper](https://crrev.com/c/1484401)
 - [#70](https://github.com/amoseui/contributions/issues/70) [service worker: Remove Cookie handling from the test helper](https://crrev.com/c/1484966)
 
 **Chromium Refactoring**
